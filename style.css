@@ -1,0 +1,45 @@
+h1 {
+	color: #14ffb9;
+} 
+
+div  {
+	background-color: #ff78c9;
+	border: #ff2baa 10px solid;
+	padding-left: 20px;
+
+}
+
+a {
+	color: #bbff78;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+ol {
+	list-style: none;
+}
+
+p {
+	font-style: italic;
+}
+
+span {
+	font-style: normal;
+}
+
+
+img {
+	border: #ff7878 6px solid;
+	border-radius: 59px;
+}
+
+.flower {
+	color:#8378ff;
+}
+
+
+
+
+
+
+
